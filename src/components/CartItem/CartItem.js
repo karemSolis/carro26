@@ -1,28 +1,3 @@
-/*import { useContext } from "react";
-import CartContext from "../../context/CartContext";
-import { HiOutlineTrash } from "react-icons/hi";
-import "./CartItem.css";
-
-const CartItem = ({ ...p }, index) => {
-  const { removeItem } = useContext(CartContext);
-  const subtotal = p.quantity * p.total; 
- 
-
-  return (
-    <tr>
-      <td>{p.name}</td>
-      <td>{p.quantity}</td>
-      <td>${p.total}</td>
-      <td>
-        ${subtotal}
-        <HiOutlineTrash onClick={() => removeItem(p.id)} size={24} />
-      </td>
-    </tr>
-  );
-};
-
-export default CartItem;*/
-
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom'

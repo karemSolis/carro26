@@ -37,14 +37,6 @@ const ItemDetailContainer = () => {
 
     }, [itemId])
 
-/*return(
-        <div className= "ItemDetailContainer">
-            <ItemDetail {...product}/>
-        </div>
-    )
-}*/
-
-
 return (
         <div className= "ItemDetailContainer">
             {loading ? (
