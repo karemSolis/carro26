@@ -1,10 +1,21 @@
 .NavBar {
-    list-style-type: none;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 60px;
-    font-size: 15px;
-    width: 100%;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:black;
+    align-items: baseline;
+    justify-content: space-between;
+    
+}
+
+.FerreteríaCarro26 {
+    
+    margin-left: 2rem;
+    margin-top: 2rem;
+    color: #DDDFDE ;
+    
+}
+
+.Categories {
+    margin-right: 2rem;
+    color: #DDDFDE ;
+    
 }

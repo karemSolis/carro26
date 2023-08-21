@@ -1,0 +1,35 @@
+.Container {
+    background-color: #DDDFDE;
+    margin: 2rem;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   
+}
+
+.Form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.Label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.Input {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 1rem;
+   
+}
+
+.ButtonContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}

@@ -1,18 +1,27 @@
+
+
 .CardItem {
-    background-color: #b0b65e;
-    border-radius: 5px;
-    width: 15rem;
-    padding: 1rem;
-    margin: 1rem;
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
- 
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin: 20px;
+    max-width: 20rem;
+    
 }
 
+.Info {
+    font-size: small;
+    font-weight: 500;
+}
 .ItemImg {
-    width: 100px;
+    width: 50%;
     object-fit: contain;
 }
 
@@ -20,8 +29,13 @@
     background-color: #000000;
     color: white;
     font-size: 1rem;
-    border-radius: 5px;
+    border-radius: 3px;
     padding: 10px;
-    border: none;
     cursor: pointer;
+    text-decoration: none;
 }
+
+.ItemFooter {
+    background-color:#ffffff;
+}
+
