@@ -30,8 +30,8 @@ Este proyecto está pensado para ser una ferretería virtual, que en este moment
     
 
 
-Video [https://drive.google.com/file/d/1aa3WCBN2qA2AGvnejZ94laxcB3RRrmSh/view?usp=sharing](https://drive.google.com/file/d/1aa3WCBN2qA2AGvnejZ94laxcB3RRrmSh/view?usp=sharing) 
+Video [https://drive.google.com/file/d/1aa3WCBN2qA2AGvnejZ94laxcB3RRrmSh/view?usp=sharing](http://localhost:3000) 
 
 
-Vercel [http://localhost:3000](http://localhost:3000) 
+Vercel [carro26-pd9st4do7-karemsolis.vercel.app](carro26-pd9st4do7-karemsolis.vercel.app) 
 
